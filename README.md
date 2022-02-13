@@ -9,7 +9,7 @@ YouTube is an American online video sharing and social media platform owned by G
 # Tech Stacks Used
 * HTML
 * CSS
-* JavaScript
+* Es-6
 
 # Tools
 * VS Code
